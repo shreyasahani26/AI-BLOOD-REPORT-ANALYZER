@@ -14,3 +14,10 @@ An AI-driven diagnostic application built with Python, Streamlit, and Google Gem
 ```cmd
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
+# 🩸 AI Blood Report Analyzer
+
+An AI-powered blood report analysis project using Python, Streamlit and Groq.
+
+## 🚀 Live Demo
+
+[👉 Open AI Blood Report Analyzer]https://ai-blood-report-analyzer-w171.onrender.com
