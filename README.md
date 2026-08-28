@@ -20,4 +20,4 @@ An AI-powered blood report analysis project using Python, Streamlit and Groq.
 
 ## 🚀 Live Demo
 
-[👉 Open AI Blood Report Analyzer]https://ai-blood-report-analyzer-w171.onrender.com
+[👉 Open AI Blood Report Analyzer](https://ai-blood-report-analyzer-w171.onrender.com)
