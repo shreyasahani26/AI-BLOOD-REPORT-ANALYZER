@@ -1,6 +1,9 @@
 # 🩸 AI Blood Report Sample Analyzer
 
 An AI-driven diagnostic application built with Python, Streamlit, and Google Gemini API.
+## 🚀 Live Demo
+
+[👉 Open AI Blood Report Analyzer](https://ai-blood-report-analyzer-w171.onrender.com)
 
 ## Features
 - **Email OTP Login**: Generates dynamic passwordless login passcodes.
@@ -18,6 +21,3 @@ python -m streamlit run app.py
 
 An AI-powered blood report analysis project using Python, Streamlit and Groq.
 
-## 🚀 Live Demo
-
-[👉 Open AI Blood Report Analyzer](https://ai-blood-report-analyzer-w171.onrender.com)
